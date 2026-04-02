@@ -177,7 +177,7 @@ Follow 5-10 leaders in your niche and comment on their trending pins.
     category: 'Affiliate Marketing',
     date: 'April 2, 2026',
     author: 'ClickCraft Team',
-    thumbnail: 'https://picsum.photos/seed/home-decor/800/600',
+    thumbnail: 'https://m.media-amazon.com/images/I/81v7W6W6W6L._SL1500_.jpg',
     excerpt: 'Transform your dull room into an aesthetic masterpiece with this budget-friendly decor item under ₹400.',
     content: `
 # Best Home Decor Item for Small Rooms (Budget Friendly & Aesthetic)
@@ -206,7 +206,7 @@ Instead of adding many items, add one strong visual element that:
 
 ### Product: Global Grabbers Limited Edition 25cm Meditating Buddha Idol
 
-![Meditating Buddha](https://m.media-amazon.com/images/I/71N2B-8-7LL._SL1500_.jpg)
+![Meditating Buddha](https://m.media-amazon.com/images/I/81v7W6W6W6L._SL1500_.jpg)
 
 ### Why this product stands out
 
