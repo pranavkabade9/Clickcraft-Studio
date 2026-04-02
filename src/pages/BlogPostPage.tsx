@@ -57,7 +57,33 @@ export default function BlogPostPage() {
               prose-li:text-gray-600 prose-li:mb-2
               prose-a:text-[#E60023] prose-a:font-bold prose-a:no-underline hover:prose-a:underline
             ">
-              <ReactMarkdown>{post.content}</ReactMarkdown>
+              <ReactMarkdown
+                components={{
+                  a: ({ node, ...props }) => {
+                    const isAmazonLink = props.children?.toString().toLowerCase().includes('amazon');
+                    if (isAmazonLink) {
+                      return (
+                        <a
+                          {...props}
+                          className="inline-flex items-center justify-center px-8 py-4 bg-[#E60023] text-white font-bold rounded-full hover:bg-[#ad001a] transition-all no-underline mt-4 shadow-lg hover:shadow-xl active:scale-95"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        />
+                      );
+                    }
+                    return <a {...props} />;
+                  },
+                  img: ({ node, ...props }) => (
+                    <img 
+                      {...props} 
+                      className="rounded-3xl shadow-xl mx-auto my-12 border border-gray-100" 
+                      referrerPolicy="no-referrer" 
+                    />
+                  )
+                }}
+              >
+                {post.content}
+              </ReactMarkdown>
             </div>
 
             {/* Post Footer */}

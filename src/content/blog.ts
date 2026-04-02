@@ -169,5 +169,106 @@ Follow 5-10 leaders in your niche and comment on their trending pins.
 
 [Download the SEO Checklist](#)
     `
+  },
+  {
+    id: '6',
+    title: 'Best Home Decor Item for Small Rooms (Budget Friendly & Aesthetic)',
+    slug: 'home-decor-small-room',
+    category: 'Affiliate Marketing',
+    date: 'April 2, 2026',
+    author: 'ClickCraft Team',
+    thumbnail: 'https://picsum.photos/seed/home-decor/800/600',
+    excerpt: 'Transform your dull room into an aesthetic masterpiece with this budget-friendly decor item under ₹400.',
+    content: `
+# Best Home Decor Item for Small Rooms (Budget Friendly & Aesthetic)
+
+If your room feels dull, empty, or lacks personality, you don’t need expensive decor to fix it.
+
+Sometimes, one well-chosen piece can completely transform your space.
+
+In this post, I’ll show you a budget-friendly home decor item under ₹400 that instantly adds a calm, aesthetic, and premium feel to your room.
+
+## Why Small Rooms Need Smart Decor
+
+Small rooms often look:
+- Cluttered
+- Boring
+- Uninspiring
+
+👉 **The solution is minimal but meaningful decor**
+
+Instead of adding many items, add one strong visual element that:
+- Attracts attention
+- Creates a vibe
+- Feels peaceful
+
+## Top Pick: Meditating Buddha Idol for Home Decor
+
+### Product: Global Grabbers Limited Edition 25cm Meditating Buddha Idol
+
+![Meditating Buddha](https://m.media-amazon.com/images/I/71N2B-8-7LL._SL1500_.jpg)
+
+### Why this product stands out
+
+#### 1. Creates a calm & peaceful vibe
+The meditating Buddha design instantly adds:
+- Relaxation
+- Positive energy
+- A calm atmosphere
+
+👉 **Perfect for students or anyone under stress**
+
+#### 2. Premium aesthetic look (black + gold finish)
+- Looks much more expensive than ₹372
+- Matches modern room setups
+- Works with both light & dark interiors
+
+👉 **Makes your room look “Instagram-worthy” 📸**
+
+#### 3. Perfect for small spaces
+- Doesn’t take much space
+- Works on: Study table, Shelf, TV unit
+
+👉 **Ideal for small rooms & compact setups**
+
+#### 4. Great as a gift option
+- Unique
+- Meaningful
+- Looks premium
+
+👉 **Good for friends, family, or personal use**
+
+### Who should buy this?
+✔ Students who want a better study environment
+✔ People who like aesthetic room setups
+✔ Anyone wanting a calm, minimal decor item
+✔ Budget buyers (under ₹500)
+
+### Price & Value
+👉 **Around ₹372 (budget-friendly)**
+
+For this price, you get:
+- Aesthetic decor
+- Peaceful vibe
+- Premium look
+
+👉 **That’s high value for money**
+
+### Check it here
+[Check Price on Amazon](https://amzn.to/4m7Kssz)
+
+(Always check latest price & availability)
+
+> **Pro Tip:** Place it near warm lighting on a clean surface. This makes it look 2x better instantly!
+
+## Conclusion
+If your room feels plain or lifeless, this simple decor piece can make a big difference.
+
+👉 It’s affordable
+👉 Looks premium
+👉 Creates a calm environment
+
+For under ₹400, this is one of the best decor upgrades you can make right now.
+    `
   }
 ];
