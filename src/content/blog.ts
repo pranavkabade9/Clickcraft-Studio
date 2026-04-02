@@ -177,7 +177,7 @@ Follow 5-10 leaders in your niche and comment on their trending pins.
     category: 'Affiliate Marketing',
     date: 'April 2, 2026',
     author: 'ClickCraft Team',
-    thumbnail: 'https://m.media-amazon.com/images/I/81v7W6W6W6L._SL1500_.jpg',
+    thumbnail: 'https://m.media-amazon.com/images/I/81yAd2YJJ+L._SX522_.jpg',
     excerpt: 'Transform your dull room into an aesthetic masterpiece with this budget-friendly decor item under ₹400.',
     content: `
 # Best Home Decor Item for Small Rooms (Budget Friendly & Aesthetic)
